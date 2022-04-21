@@ -6,3 +6,4 @@ Git pull using VS Code
 Second changes using VS Code to make sure I understand pull requests
 
 
+Another VS Code addition
